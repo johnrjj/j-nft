@@ -1,6 +1,6 @@
-## John's ERC-721 NFC Token
+## John's ERC-721 NFC Token Contract
 
-Howdy, this is my repository for my very own ERC-721 non-fungible token.
+Howdy, this is my repository for my very own ERC-721 non-fungible tokens.
 
 The token contract is currently deployed on the Rinkelby testnet at the address `0xf04Ab4810b2DA6eCd6b67e9Cb929Ca38A5D12a34`. You can check it out on etherscan [here](https://rinkeby.etherscan.io/token/0xf04ab4810b2da6ecd6b67e9cb929ca38a5d12a34).
 
