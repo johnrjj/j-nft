@@ -1,4 +1,4 @@
-## John's ERC-721 NFC Token
+## John's ERC-721 NFT Token
 
 Howdy, this is my repository for my very own ERC-721 non-fungible token. What's it for? Find out soon.
 
