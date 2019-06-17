@@ -3,7 +3,7 @@
 Howdy, this is my repository for my very own ERC-721 non-fungible token.
 
 #### What is ERC-721?
-[ERC-721](http://erc721.org/) is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+[ERC-721](http://erc721.org/) is a free, open standard that describes how to build non-fungible or unique tokens on the [Ethereum](https://www.ethereum.org/) blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
 
 Think of them like rare, one-of-a-kind collectables.
 
