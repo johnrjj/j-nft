@@ -1,6 +1,6 @@
 ## John's ERC-721 NFC Token
 
-Howdy, this is my repository for my very own ERC-721 non-fungible token.
+Howdy, this is my repository for my very own ERC-721 non-fungible token. What's it for? Find out soon.
 
 #### What is ERC-721?
 [ERC-721](http://erc721.org/) is a free, open standard that describes how to build non-fungible or unique tokens on the [Ethereum](https://www.ethereum.org/) blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
