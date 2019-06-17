@@ -1,5 +1,5 @@
-var Sample = require('./build/contracts/Sample.json')
+var Token = require('./build/contracts/Token.json')
 
 module.exports = {
-  Sample: Sample
+  Token: Token
 }
